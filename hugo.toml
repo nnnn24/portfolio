@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'https://nnnn24.github.io/portfolio'
 
 # This is what goes in <html lang="">
 languageCode = 'en-us'
@@ -63,7 +63,7 @@ disqusShortname = ''
   # The file `custom.js` is loaded on each page (before body tag ends).
 
 [params.author]
-  avatar = "profile.JPEG" # put the file in assets folder; also ensure that image has same height and width
+  avatar = "https://avatar.vercel.sh/namsrai" # put the file in assets folder; also ensure that image has same height and width
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "Hello there!"
   name = "Namsraijamts Ts"
